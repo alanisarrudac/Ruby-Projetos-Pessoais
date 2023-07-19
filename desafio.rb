@@ -1,7 +1,6 @@
-ale = ''
 
 loop do
-    puts ale 
+    puts ""
     puts "Olá, seja bem-vindo a calculadora! Escolha uma opção:"
     puts "1 - Somar"
     puts "2 - Subtrair"
